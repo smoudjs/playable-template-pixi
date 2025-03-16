@@ -1,0 +1,5 @@
+build
+dist
+node_modules
+*.yaml
+CHANGELOG.md
