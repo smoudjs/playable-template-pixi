@@ -19,7 +19,7 @@
   ],
   "author": "Smoud",
   "dependencies": {
-    "@smoud/playable-sdk": "^1.0.8",
+    "@smoud/playable-sdk": "^1.0.10",
     "pixi.js": "^8.8.1"
   },
   "devDependencies": {
