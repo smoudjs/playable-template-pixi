@@ -14,3 +14,7 @@ sdk.init((width: number, height: number) => {
   sdk.on('volume', game.volume, game);
   sdk.on('finish', game.finish, game);
 });
+
+if (__DEV__) {
+  console.log('Development mode');
+}

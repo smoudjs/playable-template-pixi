@@ -19,11 +19,11 @@
   ],
   "author": "Smoud",
   "dependencies": {
-    "@smoud/playable-sdk": "^1.0.10",
+    "@smoud/playable-sdk": "^1.0.12",
     "pixi.js": "^8.8.1"
   },
   "devDependencies": {
-    "@smoud/playable-scripts": "^1.0.15",
+    "@smoud/playable-scripts": "^1.0.17",
     "prettier": "^2.7.1"
   },
   "engines": {
