@@ -49,7 +49,9 @@ Try out this template:
 ## Looking for More?
 
 Check out other available templates for different frameworks and use cases:
+
 - [playable-template-base](https://github.com/smoudjs/playable-template-base) - Template base version
 - [playable-template-base-js](https://github.com/smoudjs/playable-template-base-js) - Template base version (JavaScript)
-- [playable-template-three](https://github.com/smoudjs/playable-template-three) - Template with Three.js
 - [playable-template-phaser](https://github.com/smoudjs/playable-template-phaser) - Template with Phaser
+- [playable-template-pixi-spine](https://github.com/smoudjs/playable-template-pixi-spine) - Template with PixiJS and Spine
+- [playable-template-three](https://github.com/smoudjs/playable-template-three) - Template with Three.js
